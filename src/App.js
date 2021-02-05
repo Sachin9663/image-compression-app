@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import LandingPage from './components/LandingPage';
+import Hiddenpana from './static/images/Hidden-pana.svg'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{backgroundImage: `linear-gradient(rgb(255,255,255), rgba(255,255,255,.68)), url(${Hiddenpana})`}}>
+      <h1 className="page-heading">Smart JPEG and PNG compression</h1>
+      <h3 className="page-subheading">More than <b>1</b> million images optimized and still counting!</h3>
+      <LandingPage />
     </div>
   );
 }
