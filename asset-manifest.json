@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/imageCompressionApp/static/css/main.578b3430.chunk.css",
+    "main.js": "/imageCompressionApp/static/js/main.792973f8.chunk.js",
+    "main.js.map": "/imageCompressionApp/static/js/main.792973f8.chunk.js.map",
+    "runtime-main.js": "/imageCompressionApp/static/js/runtime-main.247ae9f6.js",
+    "runtime-main.js.map": "/imageCompressionApp/static/js/runtime-main.247ae9f6.js.map",
+    "static/js/2.9d67169c.chunk.js": "/imageCompressionApp/static/js/2.9d67169c.chunk.js",
+    "static/js/2.9d67169c.chunk.js.map": "/imageCompressionApp/static/js/2.9d67169c.chunk.js.map",
+    "static/js/3.db2037c3.chunk.js": "/imageCompressionApp/static/js/3.db2037c3.chunk.js",
+    "static/js/3.db2037c3.chunk.js.map": "/imageCompressionApp/static/js/3.db2037c3.chunk.js.map",
+    "index.html": "/imageCompressionApp/index.html",
+    "static/css/main.578b3430.chunk.css.map": "/imageCompressionApp/static/css/main.578b3430.chunk.css.map",
+    "static/js/2.9d67169c.chunk.js.LICENSE.txt": "/imageCompressionApp/static/js/2.9d67169c.chunk.js.LICENSE.txt",
+    "static/media/Hidden-pana.83543059.svg": "/imageCompressionApp/static/media/Hidden-pana.83543059.svg",
+    "static/media/upload-bg.0521c046.jpg": "/imageCompressionApp/static/media/upload-bg.0521c046.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247ae9f6.js",
+    "static/js/2.9d67169c.chunk.js",
+    "static/css/main.578b3430.chunk.css",
+    "static/js/main.792973f8.chunk.js"
+  ]
+}
